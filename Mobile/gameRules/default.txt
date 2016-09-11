@@ -1,0 +1,52 @@
+A,WaterFall,When the person on your left starts drinking you must drink until they stop!
+A,WaterFall,When the person on your left starts drinking you must drink until they stop!
+A,WaterFall,When the person on your left starts drinking you must drink until they stop!
+A,WaterFall,When the person on your left starts drinking you must drink until they stop!
+2,Take two,Take two sips of your drink
+2,Take two,Take two sips of your drink
+2,Give two,Select two people to drink
+2,Give two,Select two people to drink
+3,Take Three,Take three sips of your drink
+3,Take three,Take three sips of your drink
+3,Give three,Select three people to drink
+3,Give three,Select three people to drink
+4,Whores!,Females Drink
+4,Whores!,Females Drink
+4,Whores!,Females Drink
+4,Whores!,Females Drink
+5,Never Have I Ever,Put 3 fingers up; go around in a circle saying something you have never done. If you hear someone say something you have done then Drink
+5,Never Have I Ever,Put 3 fingers up; go around in a circle saying something you have never done. If you hear someone say something you have done then Drink
+5,Never Have I Ever,Put 3 fingers up; go around in a circle saying something you have never done. If you hear someone say something you have done then Drink
+5,Never Have I Ever,Put 3 fingers up; go around in a circle saying something you have never done. If you hear someone say something you have done then Drink
+6,Dicks,Males Drink
+6,Dicks,Males Drink
+6,Dicks,Males Drink
+6,Dicks,Males Drink
+7,Heaven,When The Drawer Puts There hands Up So Must Everyone Else. If you are the last person drink
+7,Heaven,When The Drawer Puts There hands Up So Must Everyone Else. If you are the last person drink
+7,Heaven,When The Drawer Puts There hands Up So Must Everyone Else. If you are the last person drink
+7,Heaven,When The Drawer Puts There hands Up So Must Everyone Else. If you are the last person drink
+8,Mate,Select your best friend to be your mate. They must drink every time you do
+8,Mate,Select your best friend to be your mate. They must drink every time you do
+8,Mate,Select your best friend to be your mate. They must drink every time you do
+8,Mate,Select your best friend to be your mate. They must drink every time you do
+9,Rhyme Time,Bust a phrase that every must create a rhyme to. If you cant then drink
+9,Rhyme Time,Bust a phrase that every must create a rhyme to. If you cant then drink
+9,Rhyme Time,Bust a phrase that every must create a rhyme to. If you cant then drink
+9,Rhyme Time,Bust a phrase that every must create a rhyme to. If you cant then drink
+10,Categories,A Ship come into the harbour carrying... and set a category. In a circle say something that fits the category. If you cant drink
+10,Categories,A Ship come into the harbour carrying... and set a category. In a circle say something that fits the category. If you cant drink
+10,Categories,A Ship come into the harbour carrying... and set a category. In a circle say something that fits the category. If you cant drink
+10,Categories,A Ship come into the harbour carrying... and set a category. In a circle say something that fits the category. If you cant drink
+J,Question Master,You are now the QM if somebody answers your questions with anything other than FUCK YOU. They Must Drink
+J,Question Master,You are now the QM if somebody answers your questions with anything other than FUCK YOU. They Must Drink 
+J,Question Master,You are now the QM if somebody answers your questions with anything other than FUCK YOU. They Must Drink 
+J,Question Master,You are now the QM if somebody answers your questions with anything other than FUCK YOU. They Must Drink
+Q,Snake Eyes, You are now SNAKE EYES, if you make eye contact with somebody they must drink
+Q,Snake Eyes, You are now SNAKE EYES, if you make eye contact with somebody they must drink
+Q,Snake Eyes, You are now SNAKE EYES, if you make eye contact with somebody they must drink
+Q,Snake Eyes, You are now SNAKE EYES, if you make eye contact with somebody they must drink
+K,Pour your Drink into the vessel,People who draw the first 3 kings pour there drink into the vessel and the fourth person has to drink it!
+K,Pour your Drink into the vessel,People who draw the first 3 kings pour there drink into the vessel and the fourth person has to drink it!
+K,Pour your Drink into the vessel,People who draw the first 3 kings pour there drink into the vessel and the fourth person has to drink it!
+K,Pour your Drink into the vessel,People who draw the first 3 kings pour there drink into the vessel and the fourth person has to drink it!

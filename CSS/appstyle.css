@@ -1,0 +1,67 @@
+
+body{
+    max-width : 100%;
+    max-height : 100%;
+    background-color : gray;
+}
+
+#face{
+    text-align: center;
+    font-size: 30vw;
+}
+
+.centre{
+    text-align: center;
+    margin: 0 auto;
+}
+
+button{
+    width: 90%;
+    height: 100px;
+    position: absolute;
+    bottom: 30px;
+    left: 5%;
+    
+}
+
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+main{
+    max-width : 50em;
+    margin : 0 auto;
+    border-right : 2px;
+    border-left : 2px;
+    border-bottom : 2px;
+    border-top : 0px;
+    border-style : solid;
+    background-color: white;
+    
+}
+
+.contain{
+    width: 90%;
+    height: 50%;
+    border: 2px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+h1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p{
+    text-align: center;
+}

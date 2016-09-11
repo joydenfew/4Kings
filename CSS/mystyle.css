@@ -1,0 +1,136 @@
+.imagesToTheRight{
+    float: left;
+    margin : 5px;
+    margin-right: 3ex;
+    border-style : solid;
+    border-width : 2px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    margin: 0 auto;
+    width: 70%;
+    margin-bottom: 3ex;
+        
+}
+
+h1{
+    color : white;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h2{ text-align: center;
+    text-decoration:underline; 
+}
+
+form{
+    margin: 2px;
+    
+}
+
+#contact{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 25ex;
+    margin-bottom: 5ex;
+}
+
+#ageRadioForm > label{
+    padding-right: 3ex;
+}
+
+
+
+.centered{
+   text-align: center; 
+}
+
+#vehicletypeHeader{
+    text-align: center;
+    text-decoration:underline;
+    color: black;
+}
+
+header{
+    background-color : #D24C41;
+    border-top : 2px;
+    border-top-style: solid;
+}
+
+.clear{
+    clear: both;
+    line-height: 0;
+}
+
+.wrapper{
+    text-align: center;
+    margin: 3ex;
+}
+
+main{
+    max-width : 50em;
+    margin : 0 auto;
+    border-right : 2px;
+    border-left : 2px;
+    border-bottom : 2px;
+    border-top : 0px;
+    border-style : solid;
+}
+
+header > nav > a{
+    color : white;
+}
+
+nav{
+    text-align:center;
+}
+
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+main{
+    background-color: white;
+}
+
+html {
+    height: 100%;
+    
+        
+}
+
+.logo{
+    display: block;
+    margin:0 auto;
+    
+}
+
+
+p{
+    margin: 2ex;
+    font-family: sans-serif;
+    
+}
+
+fieldset{
+    margin: 1ex;
+}
+
+a:hover{text-decoration:none;}
+
+
