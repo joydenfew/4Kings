@@ -7,7 +7,7 @@ body{
 
 #face{
     text-align: center;
-    font-size: 30vw;
+    font-size: 75vw;
 }
 
 .centre{
@@ -18,24 +18,18 @@ body{
 button{
     width: 90%;
     height: 100px;
-    position: absolute;
+    
     bottom: 30px;
-    left: 5%;
+    
     
 }
 
-body {
-    background-color: black;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-attachment: fixed;
-    
+html, body {
+    margin: 0;
+    height: 100%;
 }
 
+/*
 main{
     max-width : 50em;
     margin : 0 auto;
@@ -47,6 +41,7 @@ main{
     background-color: white;
     
 }
+*/
 
 .contain{
     width: 90%;
@@ -55,6 +50,31 @@ main{
     margin: 0 auto;
     text-align: center;
     
+}
+
+.hide{
+    display: none;
+}
+
+textarea{
+    width: 100%;
+    
+    position: absolute;
+    
+    color: white;
+    
+    font-size: 4vw;
+    
+    margin-bottom: 5px;
+    left: auto;
+    right: auto;
+    bottom: 0;
+    
+    resize: none;
+    
+    text-align: center;
+    
+    background-color: gray;
 }
 
 h1{

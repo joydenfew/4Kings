@@ -1,6 +1,7 @@
 var cardArray = [];
 var KingsLeft = 4;
 var actionLock = false;
+var currentCardObject;
 
 //card object
 function card(title,shortRule,longRule,color)
@@ -37,6 +38,7 @@ function readS(name){
 function readSC(name){
     if(name == null){
         name = "defaultC.txt";
+        
     }
     
     var fileName = "gameRules/" + name;
@@ -67,11 +69,15 @@ function action(){
     if(!actionLock){
         var curCard = nextCard();
         var gameOver = forthKing();
+        displayCard(curCard);
         if(gameOver){
             actionLock = true;
             displaysGameOver();
+            
         }
-        else displayCard(curCard);
+    }
+    else{
+        alert("Game Over! Drink the vessel!!! ~To play again press 'refresh'");
     }
 }
 
@@ -82,12 +88,26 @@ function menu(){
 
 //puts the current card on screen
 function displayCard(thisCard){
+    currentCardObject = thisCard;
+    
+    var title = document.getElementById("face");
+    var text = document.getElementById("simpleRule");
+    
+    title.textContent = thisCard.cardTitle;
+    text.textContent = thisCard.CardShortRule;
+    
+    if(forthKing()){
+        text.textContent = "4th King! Drink The Vessel!!"
+    }
     
 }
 
 //builds a dom tree for displaying each card
 function buildPage(){
-    
+    var mn = document.getElementById("menu");
+    mn.style.display = "none";
+    var game = document.getElementById("game");
+    game.style.display = "block";
 }
 
 //builds the menu
@@ -121,7 +141,7 @@ function nextCard(){
 }
 
 function forthKing(){
-    if(KingsLeft == 1){
+    if(KingsLeft == 0){
         //display message
         return true;
     }
@@ -129,6 +149,13 @@ function forthKing(){
 }
 
 function quickPlay(){
-    KingsLeft = 4;
     readS();
+    buildPage();
+    KingsLeft = 4;
+}
+
+
+function showFullRule(){
+    var tx = currentCardObject.cardLongRule;
+    alert(tx);
 }

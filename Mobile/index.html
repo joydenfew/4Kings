@@ -12,16 +12,22 @@
     <body>
         <main>
             <header>
-                <h1 class="centre" style="text-decoration: underline">4Kings</h1>
+                <h2 class="centre" style="text-decoration: underline">4Kings</h2>
                 <nav>
                     
                 </nav>
             </header>
-            <div class="contain" onclick="nextCard()">
-                <h1 id="face" style="size: xx-large">X</h1>
+            <div id="game" class="hide">
+                <div class="contain" onclick="action()">
+                    <h1 id="face">X</h1>
+                </div>
+                <textarea id="simpleRule" rows="4" cols="50" readonly onclick="showFullRule()">Touch the 'X' to begin</textarea>
             </div>
-            <p id="pp" onclick="">Touch the X to begin!</p>
-            
+            <div id="menu">
+                <div style="text-align: center; margin-top : 30px">
+                    <button type="button" onclick="quickPlay()">Default Rules</button>
+                </div>
+            </div>
         </main>
     </body>
 </html>
